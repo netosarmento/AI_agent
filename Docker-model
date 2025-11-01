@@ -1,0 +1,21 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Copia arquivos e instala dependências
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY . .
+
+# Expor porta 8000 (padrão FastAPI)
+EXPOSE 8000
+
+# Comando de inicialização
+CMD ["uvicorn", "app.server:app", "--host", "0.0.0.0", "--port", "8000"]
+
+
+# Para rodar localmente
+
+docker build -t my-agent .
+docker run -p 8000:8000 --env-file .env my-agent
