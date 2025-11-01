@@ -1,6 +1,6 @@
 # 🤖 Projeto de Agente de Inteligência Artificial com Framework Agno
 
-**Trabalho de Conclusão da Disciplina de Aprendizado de Máquina — Pós-Graduação em Inteligência Artificial Aplicada (IFTO)**  
+**Trabalho de Conclusão da Disciplina de Aprendizado de Máquina — Pós-Graduação em Desenvolvimento de Sistemas (IFTO)**  
 **Autor:** Carlos Jorge Sarmento Neto  
 **Instituição:** *Instituto Federal do Tocantins (IFTO)*  
 **Disciplina:** *Aprendizado de Máquina*  
