@@ -3,7 +3,7 @@
 **Trabalho de Conclusão da Disciplina de Aprendizado de Máquina — Pós-Graduação em Inteligência Artificial Aplicada (IFTO)**  
 **Autor:** Carlos Jorge Sarmento Neto  
 **Instituição:** *Instituto Federal do Tocantins (IFTO)*  
-**Disciplina:** *[Aprendizado de Máquina]*  
+**Disciplina:** *Aprendizado de Máquina*  
 **Ano:** 2025
 
 ---
